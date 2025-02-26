@@ -14,7 +14,7 @@ EldCache is a simple in-memory caching system for Elixir, using **GenServer** an
 Clone this repository and install dependencies:
 
 ```sh
-git clone https://github.com/victor-palha/eld_cache.git
+git clone https://github.com/Victor-Palha/Eld_Cache.git
 cd eld_cache
 ```
 
